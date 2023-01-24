@@ -1,7 +1,7 @@
 ## Hello World 🌍
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ChpOyeacGmpQk/giphy.gif"/>
+  <img src="https://64.media.tumblr.com/tumblr_m2sps2y8MN1rressco1_500.gif"/>
 </div>
 
 # 💫 About Me:
