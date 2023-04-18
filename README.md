@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I just finished my first web project<br>🚀I currently work as a frontend developer contributing to a website/blog project for a consulting company<br>🌱 Student of the "Full Stack Developer" career at Coderhouse" <br>⚡ Web Developer<br>
+🔭 I just finished my second programming WEB course (Java Script)<br>🚀I currently work as a frontend developer contributing to a website/blog project for a consulting company<br>🌱 Student of the "Full Stack Developer" career at Coderhouse" <br>⚡Future Web Developer<br>
 
 
 ## 🌐 Socials:
