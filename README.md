@@ -5,8 +5,10 @@
 </div>
 
 # 💫 About Me:
-🔭 Currently, I am deepening my knowledge of React-JS by taking a course at CoderHouse. I am immersing myself in the world of React-JS and learning new skills.
-Also, I just finished my second programming WEB course (Java Script)<br>🚀I currently work as a frontend developer contributing to a website/blog project for a consulting company<br>🌱 Student of the "Full Stack Developer" career at Coderhouse" <br>⚡Future Web Developer<br>
+🔭 I have recently completed an intensive React-JS course and have now transitioned into a backend programming course as part of my journey to become a full-stack developer. With a solid foundation in React-JS and a growing expertise in backend development, I am excited to apply my skills to create comprehensive and dynamic web applications. I am dedicated to continuous learning and staying updated with the latest industry practices to deliver high-quality solutions.
+<br>🚀 I currently work as a frontend developer contributing to a website/blog project for a consulting company
+<br>🌱 Student of the "Full Stack Developer" career at Coderhouse".
+<br>⚡ Future Web Developer<br>
 
 
 ## 🌐 Socials:
@@ -21,10 +23,11 @@ Also, I just finished my second programming WEB course (Java Script)<br>🚀I cu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" height="40" width="80" alt="tailwind logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src= "https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"  height="40" width="52" alt="astro logo"
+  <img src= "https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png"  height="40" width="52" alt="astro logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" width="52" alt="webpack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
 </div>
 
